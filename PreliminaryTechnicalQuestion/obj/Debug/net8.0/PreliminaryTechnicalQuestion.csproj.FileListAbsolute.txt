@@ -27,3 +27,17 @@ D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\ne
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\PreliminaryTechnicalQuestion.pdb
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\PreliminaryTechnicalQuestion.genruntimeconfig.cache
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\ref\PreliminaryTechnicalQuestion.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\PreliminaryTechnicalQuestion.csproj.AssemblyReference.cache
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\Prelimin.04F7EB49.Up2Date

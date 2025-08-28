@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using PreliminaryTechnicalQuestion.Domain;
+
 namespace PreliminaryTechnicalQuestion
 {
     public class Program
@@ -5,6 +8,10 @@ namespace PreliminaryTechnicalQuestion
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseInMemoryDatabase(builder.Configuration.GetConnectionString("MyDatabase")));
+
             var app = builder.Build();
 
             app.MapGet("/", () => "Hello World!");

@@ -1,0 +1,82 @@
+﻿### check available rooms
+GET http://localhost:25678/rooms/available
+
+### check all rooms
+GET http://localhost:25678/rooms
+
+### check specific room
+GET http://localhost:25678/rooms/1
+
+### create rooms
+POST http://localhost:25678/rooms
+Content-Type: application/json
+
+[
+  {
+    "name": "101",
+    "type": "Single",
+    "isAvailable": true
+  },
+  {
+    "name": "102",
+    "type": "Double",
+    "isAvailable": true
+  },
+  {
+    "name": "103",
+    "type": "Single",
+    "isAvailable": false
+  },
+  {
+    "name": "104",
+    "type": "Single",
+    "isAvailable": true
+  }
+
+]
+
+### check all bookings
+GET http://localhost:25678/bookings
+
+### create booking 1
+POST http://localhost:25678/bookings
+Content-Type: application/json
+{ "guestName": "John Doe", 
+  "roomId": 1, 
+  "checkInDate": "2025-05-01", 
+  "checkOutDate": "2025-05-03" 
+}
+
+### create booking 2
+POST http://localhost:25678/bookings
+Content-Type: application/json
+{ "guestName": "John Doe", 
+  "roomId": 2, 
+  "checkInDate": "2025-05-01", 
+  "checkOutDate": "2025-05-03" 
+}
+
+### create booking 3 (unvalid)
+POST http://localhost:25678/bookings
+Content-Type: application/json
+{ "guestName": "John Doe", 
+  "roomId": 3, 
+  "checkInDate": "2025-05-01", 
+  "checkOutDate": "2025-05-03" 
+}
+
+### check specific booking
+GET http://localhost:25678/bookings/1
+
+### delete specific booking
+DELETE http://localhost:25678/bookings/1
+
+### update specific room details
+PUT http://localhost:25678/rooms/3
+Content-Type: application/json
+
+{
+    "name": "103",
+    "type":"Single",
+    "isAvailable": true
+}

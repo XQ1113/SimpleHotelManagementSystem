@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PreliminaryTechnicalQuestion.Domain;
+using PreliminaryTechnicalQuestion.Presentation;
 
 namespace PreliminaryTechnicalQuestion
 {
@@ -14,7 +15,9 @@ namespace PreliminaryTechnicalQuestion
 
             var app = builder.Build();
 
-            app.MapGet("/", () => "Hello World!");
+            app.MapRoomEndpoint();
+
+            app.MapBookingEndpoint();
 
             app.Run();
         }

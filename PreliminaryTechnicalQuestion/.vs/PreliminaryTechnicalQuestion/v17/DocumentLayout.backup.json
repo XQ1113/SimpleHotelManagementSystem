@@ -3,65 +3,51 @@
   "WorkspaceRootPath": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\preliminarytechnicalquestion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:preliminarytechnicalquestion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\test\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:test\\test.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\domain\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:domain\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\booking\\query\\getbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\booking\\query\\getbookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\room\\query\\getrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\room\\query\\getrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\presentation\\roomendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:presentation\\roomendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:domain\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\presentation\\bookingendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:presentation\\bookingendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\domain\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:domain\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\room\\query\\getavailablerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\room\\query\\getavailablerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\room\\query\\getroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\room\\query\\getroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\booking\\query\\getbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\booking\\query\\getbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|d:\\github\\preliminarytechnicalquestion\\preliminarytechnicalquestion\\application\\booking\\command\\deletebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297436E8-224D-405C-9343-960A41C3E26D}|PreliminaryTechnicalQuestion.csproj|solutionrelative:application\\booking\\command\\deletebooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T08:32:15.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PreliminaryTechnicalQuestion",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion.csproj",
-              "RelativeDocumentMoniker": "PreliminaryTechnicalQuestion.csproj",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion.csproj*",
-              "RelativeToolTip": "PreliminaryTechnicalQuestion.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-28T08:23:46.596Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -124,54 +110,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Domain\\AppDbContext.cs",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\AppDbContext.cs*",
-              "RelativeToolTip": "Domain\\AppDbContext.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "DeleteBooking.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Command\\DeleteBooking.cs",
+              "RelativeDocumentMoniker": "Application\\Booking\\Command\\DeleteBooking.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Command\\DeleteBooking.cs",
+              "RelativeToolTip": "Application\\Booking\\Command\\DeleteBooking.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:23:31.595Z",
+              "WhenOpened": "2025-08-30T06:56:49.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetBooking.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Query\\GetBooking.cs",
+              "RelativeDocumentMoniker": "Application\\Booking\\Query\\GetBooking.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Query\\GetBooking.cs",
+              "RelativeToolTip": "Application\\Booking\\Query\\GetBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:51:37.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetRoom.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetRoom.cs",
+              "RelativeDocumentMoniker": "Application\\Room\\Query\\GetRoom.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetRoom.cs",
+              "RelativeToolTip": "Application\\Room\\Query\\GetRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:50:49.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Title": "GetRooms.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetRooms.cs",
+              "RelativeDocumentMoniker": "Application\\Room\\Query\\GetRooms.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetRooms.cs",
+              "RelativeToolTip": "Application\\Room\\Query\\GetRooms.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T07:53:29.813Z",
+              "WhenOpened": "2025-08-30T06:47:01.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingDto.cs",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\BookingDto.cs",
-              "RelativeDocumentMoniker": "Domain\\BookingDto.cs",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\BookingDto.cs*",
-              "RelativeToolTip": "Domain\\BookingDto.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RoomEndpoint.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Presentation\\RoomEndpoint.cs",
+              "RelativeDocumentMoniker": "Presentation\\RoomEndpoint.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Presentation\\RoomEndpoint.cs",
+              "RelativeToolTip": "Presentation\\RoomEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T07:45:36.052Z",
+              "WhenOpened": "2025-08-30T06:49:08.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoomDto.cs",
-              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\RoomDto.cs",
-              "RelativeDocumentMoniker": "Domain\\RoomDto.cs",
-              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Domain\\RoomDto.cs",
-              "RelativeToolTip": "Domain\\RoomDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Title": "GetAvailableRooms.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetAvailableRooms.cs",
+              "RelativeDocumentMoniker": "Application\\Room\\Query\\GetAvailableRooms.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Room\\Query\\GetAvailableRooms.cs",
+              "RelativeToolTip": "Application\\Room\\Query\\GetAvailableRooms.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T07:45:20.034Z",
+              "WhenOpened": "2025-08-30T06:40:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.http",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Test\\test.http",
+              "RelativeDocumentMoniker": "Test\\test.http",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Test\\test.http*",
+              "RelativeToolTip": "Test\\test.http*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-30T06:38:37.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingEndpoint.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Presentation\\BookingEndpoint.cs",
+              "RelativeDocumentMoniker": "Presentation\\BookingEndpoint.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Presentation\\BookingEndpoint.cs",
+              "RelativeToolTip": "Presentation\\BookingEndpoint.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:37:19.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBookings.cs",
+              "DocumentMoniker": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Query\\GetBookings.cs",
+              "RelativeDocumentMoniker": "Application\\Booking\\Query\\GetBookings.cs",
+              "ToolTip": "D:\\GitHub\\PreliminaryTechnicalQuestion\\PreliminaryTechnicalQuestion\\Application\\Booking\\Query\\GetBookings.cs",
+              "RelativeToolTip": "Application\\Booking\\Query\\GetBookings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:30:35.209Z",
               "EditorCaption": ""
             }
           ]

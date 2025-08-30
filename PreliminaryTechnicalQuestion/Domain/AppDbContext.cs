@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PreliminaryTechnicalQuestion.Domain.Entities;
 
 namespace PreliminaryTechnicalQuestion.Domain
 {
     public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
     {
-        public DbSet<RoomDto> Room { get; set; }
-        public DbSet<BookingDto> Booking { get; set; }
+        public DbSet<Room> Room { get; set; }
+        public DbSet<Booking> Booking { get; set; }
     }
 }

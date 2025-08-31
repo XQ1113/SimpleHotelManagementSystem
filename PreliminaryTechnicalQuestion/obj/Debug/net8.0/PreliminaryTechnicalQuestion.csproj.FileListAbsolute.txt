@@ -41,3 +41,4 @@ D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\ne
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\PreliminaryTechnicalQuestion.csproj.AssemblyReference.cache
 D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\Prelimin.04F7EB49.Up2Date
+D:\GitHub\PreliminaryTechnicalQuestion\PreliminaryTechnicalQuestion\obj\Debug\net8.0\PreliminaryTechnicalQuestion.sourcelink.json
